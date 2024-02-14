@@ -1,5 +1,5 @@
 
-#  !!!!!!!!!!!!!!!!!!!! INCOMPLETE PROJECT!!!!!!!!!!!!!!!1
+#  !!!!!!!!!!!!!!!!!!!! INCOMPLETE !!!!!!!!!!!!!!!1
 
 """ project #1 from the book "The Big Book Of Small Python Projects" """
 import random
